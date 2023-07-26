@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyPackage</id>
+    <version>1.0.0</version>
+    <authors>MyPackage</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/root/MyPackage/bin/Release/net7.0/MyPackage.runtimeconfig.json" target="lib/net7.0/MyPackage.runtimeconfig.json" />
+    <file src="/root/MyPackage/bin/Release/net7.0/MyPackage.dll" target="lib/net7.0/MyPackage.dll" />
+  </files>
+</package>

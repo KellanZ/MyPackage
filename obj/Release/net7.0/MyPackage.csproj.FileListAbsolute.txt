@@ -1,0 +1,15 @@
+/root/MyPackage/bin/Release/net7.0/MyPackage
+/root/MyPackage/bin/Release/net7.0/MyPackage.deps.json
+/root/MyPackage/bin/Release/net7.0/MyPackage.runtimeconfig.json
+/root/MyPackage/bin/Release/net7.0/MyPackage.dll
+/root/MyPackage/bin/Release/net7.0/MyPackage.pdb
+/root/MyPackage/obj/Release/net7.0/MyPackage.csproj.AssemblyReference.cache
+/root/MyPackage/obj/Release/net7.0/MyPackage.GeneratedMSBuildEditorConfig.editorconfig
+/root/MyPackage/obj/Release/net7.0/MyPackage.AssemblyInfoInputs.cache
+/root/MyPackage/obj/Release/net7.0/MyPackage.AssemblyInfo.cs
+/root/MyPackage/obj/Release/net7.0/MyPackage.csproj.CoreCompileInputs.cache
+/root/MyPackage/obj/Release/net7.0/MyPackage.dll
+/root/MyPackage/obj/Release/net7.0/refint/MyPackage.dll
+/root/MyPackage/obj/Release/net7.0/MyPackage.pdb
+/root/MyPackage/obj/Release/net7.0/MyPackage.genruntimeconfig.cache
+/root/MyPackage/obj/Release/net7.0/ref/MyPackage.dll
